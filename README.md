@@ -17,3 +17,8 @@ With the help of these commands using KNN(k-nearest-neighbors), we get to know a
 Eg. The input variable is a 
     input values are Income=10000, Coapllicant income=2200, Loan amount=1,20,000,Term=360, credit history=1
 The output is 'Y'
+
+Screenshot 
+## Project Screenshot
+
+![Dashboard](https://github.com/arpitagh20/Loan-Sanction-Project-in-Python-Machine-learning/blob/main/Screenshot%202026-03-06%20203005.png,https://github.com/arpitagh20/Loan-Sanction-Project-in-Python-Machine-learning/blob/main/Screenshot%202026-03-06%20203022.png)
