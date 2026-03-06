@@ -22,3 +22,6 @@ Screenshot
 ## Project Screenshot
 
 ![Dashboard](https://github.com/arpitagh20/Loan-Sanction-Project-in-Python-Machine-learning/blob/main/Screenshot%202026-03-06%20203005.png)
+![Dashboard](https://github.com/arpitagh20/Loan-Sanction-Project-in-Python-Machine-learning/blob/main/Screenshot%202026-03-06%20203022.png)
+![Dashboard](https://github.com/arpitagh20/Loan-Sanction-Project-in-Python-Machine-learning/blob/main/Screenshot%202026-03-06%20203041.png)
+![Dashboard](https://github.com/arpitagh20/Loan-Sanction-Project-in-Python-Machine-learning/blob/main/Screenshot%202026-03-06%20203121.png)
